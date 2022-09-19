@@ -1,3 +1,5 @@
+-- 2. Выведите список товаров products и разделов catalogs, который соответствует товару.
+
 DROP TABLE IF EXISTS products;
 CREATE TABLE products (
   id SERIAL PRIMARY KEY,
